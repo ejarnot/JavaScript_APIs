@@ -9,6 +9,10 @@ let button = document.getElementById("button");
 
 button.addEventListener("click", fetchRequest)
 
+//button.addEventListener("keypress", fetchRequest)
+//want to add enter key event, unsure exactly how. 
+        
+
 image = document.querySelector("img")
 input = document.querySelector("#generate")
 
